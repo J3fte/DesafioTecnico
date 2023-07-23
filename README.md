@@ -1,6 +1,6 @@
 # Mi Propia Versión de Keep: Organizador de Notas
 Prueba tecnica de conocimientos
-## Table of contents
+## Tabla de contenidos
 - [Descripcion](#descripcion)
 - [Instalacion y ejecucion](#intallation-and-run)
 - [Creditos](#creditos)
